@@ -16,7 +16,7 @@ Proyek ini merupakan submission test Data Science untuk **PT Nolimit Indonesia**
 |---|---|
 | **Nama** | SmSA (Small-scale Multi-domain Sentiment Analysis) |
 | **Sumber** | [IndoNLU Benchmark — GitHub](https://github.com/IndoNLP/indonlu) |
-| **Lisensi** | [MIT License](https://github.com/IndoNLP/indonlu/blob/master/LICENSE) |
+| **Lisensi** | [Apache License 2.0](https://github.com/IndoNLP/indonlu/blob/master/LICENSE) |
 | **Bahasa** | Indonesia |
 | **Label** | `positive`, `negative`, `neutral` |
 | **Total Data** | Train: 11.000 | Valid: 1.260 | Test: 500 |
@@ -149,10 +149,3 @@ seaborn
 reportlab
 streamlit
 ```
-
----
-
-## 👤 Author
-**William**
-Submission: nolimit-ds-test-william
-Email: jobs@nolimit.id
