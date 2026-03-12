@@ -49,3 +49,9 @@ Buka `NOLIMIT_TEST_WILLIAM.ipynb` di **Google Colab** atau Jupyter Notebook.
 | Embedding | `AutoModel` — `indobenchmark/indobert-base-p2` (CLS token, 768 dim) |
 | Similarity Search | `FAISS` — `IndexFlatL2` |
 | Classifier | `Logistic Regression` — scikit-learn |
+
+---
+
+## 🌐 Live Demo
+Lampiran Streamlit yang sudah di deploy.
+🔗 [Click here to open the app](https://nolimit-ds-test-william-nxcnzgg3jbnaqf8gggqdv6.streamlit.app/)
