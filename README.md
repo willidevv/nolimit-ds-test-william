@@ -5,11 +5,6 @@ Proyek ini merupakan submission test Data Science untuk **PT NoLimit Indonesia**
 
 ---
 
-## 📌 Task
-**Task A — Classification**: Sentiment Analysis (positive / negative / neutral)
-
----
-
 ## 📊 Dataset
 
 | Info | Detail |
@@ -25,7 +20,7 @@ Dataset ini berisi komentar dan ulasan dari berbagai platform online Indonesia y
 
 ---
 
-## ⚙️ Setup & Cara Menjalankan
+## Setup & Cara Menjalankan
 
 ### 1. Clone Repository
 ```bash
@@ -48,7 +43,7 @@ Buka `NOLIMIT_TEST_WILLIAM.ipynb` di **Google Colab** atau Jupyter Notebook.
 ### 4. Dataset
 Dataset akan otomatis didownload dari GitHub IndoNLU saat notebook dijalankan. Tidak perlu setup manual.
 
-## 🤖 Model yang Digunakan
+## Model yang Digunakan
 
 | Komponen | Model / Library |
 |---|---|
