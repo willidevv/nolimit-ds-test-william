@@ -1,5 +1,4 @@
 # 🎯 Sentiment Analysis — SmSA IndoNLU
-**nolimit-ds-test-william**
 
 Proyek ini merupakan submission test Data Science untuk **PT NoLimit Indonesia**, mengimplementasikan klasifikasi sentimen Bahasa Indonesia menggunakan model IndoBERT dari Hugging Face, embeddings, dan FAISS untuk similarity search.
 
