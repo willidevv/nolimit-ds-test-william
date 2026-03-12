@@ -4,7 +4,7 @@ Proyek ini merupakan submission test Data Science untuk **PT NoLimit Indonesia**
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 | Info | Detail |
 |---|---|
@@ -38,9 +38,6 @@ Buka `NOLIMIT_TEST_WILLIAM.ipynb` di **Google Colab** atau Jupyter Notebook.
 > ⚠️ **Disarankan menggunakan Google Colab dengan GPU (T4)** untuk mempercepat proses pembuatan embedding.
 >
 > Di Google Colab: Runtime → Change runtime type → T4 GPU
-
-### 4. Dataset
-Dataset akan otomatis didownload dari GitHub IndoNLU saat notebook dijalankan. Tidak perlu setup manual.
 
 ## Model yang Digunakan
 
