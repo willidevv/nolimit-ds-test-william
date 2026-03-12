@@ -39,6 +39,8 @@ Buka `NOLIMIT_TEST_WILLIAM.ipynb` di **Google Colab** atau Jupyter Notebook.
 >
 > Di Google Colab: Runtime → Change runtime type → T4 GPU
 
+---
+
 ## Model yang Digunakan
 
 | Komponen | Model / Library |
